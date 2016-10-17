@@ -1,0 +1,1 @@
+# teamcity-minimal-dockerfile
